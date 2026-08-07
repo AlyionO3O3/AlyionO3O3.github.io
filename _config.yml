@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Sin-Yu Lin, MPH"
 title_separator          : "-"
 name                     : &name "Sin-Yu Lin"
-description              : &description "Sin-Yu Lin, MPH — Bioinformatics & ML Specialist, Faculty Lecturer at NDMU"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Sin-Yu Lin, MPH — Bioinformatics & AI Specialist, Faculty Lecturer at NDMU"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://AlyionO3O3.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Sin-Yu Lin, MPH"
   pronouns         : # example: "she/her"
-  bio              : "Bioinformatics & ML Specialist · Faculty Lecturer, NDMU · Major, R.O.C. Army"
+  bio              : "Bioinformatics & AI Specialist · Faculty Lecturer, NDMU · Major, R.O.C. Army"
   location         : "Taipei, Taiwan (R.O.C.)"
-  employer         : "National Defense Medical University (NDMU)"
+  employer         : "National Defense Medical University"
   uri              : "https://wwwndmc.ndmutsgh.edu.tw/DocDet/191/100020/608/4035"
   email            : "sinyu.lin@mail.ndmutsgh.edu.tw"
 

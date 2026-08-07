@@ -1,29 +1,36 @@
 ---
 permalink: /
 title: "Sin-Yu Lin, MPH"
-excerpt: "Bioinformatics & ML Specialist · Faculty Lecturer, NDMU · Major, R.O.C. Army"
+excerpt: "Bioinformatics & AI Specialist · Faculty Lecturer, NDMU · Major, R.O.C. Army"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Faculty Lecturer at the National Defense Medical University (NDMU) and Major in the R.O.C. Army, holding an MPH in Epidemiology. I specialize in building predictive machine learning models and conducting high-dimensional database analysis (Taiwan Biobank, NHIRD). I currently manage the institution's high-performance computing infrastructure (NVIDIA DGX-H200) to bridge clinical needs with advanced bioinformatics research.
-
-I am a three-time National Innovation Award winner, recognized for translating complex medical research into actionable clinical and military systems — including a bronchiectasis risk prediction system and an AI-assisted ventilator-weaning decision system that is now patented in Taiwan.
-
-Research Interests
+About Me
 ======
-- Predictive modeling for military and occupational medicine (naval diver workload capacity, oxygen/pressure tolerance)
-- Genomics & transcriptomics (RNA-seq, GWAS/EWAS/PRS) applied to aging-related muscle loss and chronic kidney disease
-- Applied machine learning and deep learning on large clinical and administrative databases
-- High-performance computing infrastructure for biomedical research
 
-Highlights
+I am a Faculty Lecturer at National Defense Medical University (NDMU), with an academic background in epidemiology, genomics, and health data science. My research interest lies at the intersection of Artificial Intelligence and Bioinformatics, with a long-term focus on applying advanced computational methodologies to extreme environmental physiology and translational medicine.
+
+My foundational research during my Master's training focused on statistical genomics and population health, integrating GWAS, transcription factor (TF) motif analysis, RNA-seq, and large-scale health databases (Taiwan Biobank, NHIRD). Currently, I lead research initiatives on physiological monitoring and operational risk prediction for divers. My computational toolkit spans predictive machine learning, deep learning, and single-cell RNA sequencing (scRNA-seq), complemented by functional bioinformatics frameworks including structural modeling (AlphaFold) and Agentic AI applications.
+
+To bridge computation with biological ground truth, I am expanding my line of inquiry toward wet-lab integration—establishing a seamless, end-to-end framework from sample to data.
+
+Research Vision & Long-Term Goals
 ======
-- 3x National Innovation Award (2023–2025)
-- Medal of Excellent Efficiency (Military Ribbon)
-- 2 Taiwan patents, 1 peer-reviewed journal article, 2 conference poster presentations
-- Manage the NDMU NVIDIA DGX-H200 GPU cluster for institutional biomedical research
 
-For a full breakdown of my education, experience, and scholarly work, see my [CV](/cv/). You can also browse my [publications](/publications/) and [talks & posters](/talks/), or reach me directly at [sinyu.lin@mail.ndmutsgh.edu.tw](mailto:sinyu.lin@mail.ndmutsgh.edu.tw).
+Taiwan is an island nation with globally renowned marine ecosystems and a growing population of over 200,000 recreational and professional divers. Capitalizing on this unique demographic and geographic context, my overarching ambition is to construct a Native Diver Biobank—and eventually expand to military aviators. By capturing multi-omics and longitudinal physiological data under extreme environmental stress, this initiative aims to uncover novel biomarkers for human adaptation, operational safety, and precision occupational medicine.
+
+**Primary PhD Focus Areas:**
+
+- **AI & Machine Learning for Complex Biological Data:** Developing scalable ML/DL models and agentic workflows for multimodal single-cell and genomic datasets.
+- **Extreme Environment Genomics & Physiology:** Unraveling multi-omic mechanisms of hypoxia, hyperbaric stress, and adaptation in divers and aviators.
+- **End-to-End Translational Pipelines:** Designing rigorous "sample-to-data" computational and experimental workflows for biomarker discovery.
+
+Highlights & Impact
+======
+
+- **Research Leadership:** Pioneering the institutional roadmap for a specialized Taiwan Diver & Aviator Biobank.
+- **Translational Innovation:** 3x National Innovation Award winner (2023–2025) and holder of 2 patents in AI-assisted clinical decision support systems.
+- **Scholarly Output:** Author of peer-reviewed journal articles and presenter at international conferences in environmental and occupational health.

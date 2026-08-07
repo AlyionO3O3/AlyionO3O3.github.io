@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Sin-Yu Lin, MPH** — Bioinformatics & ML Specialist · Faculty Lecturer, NDMU · Major, R.O.C. Army
+**Sin-Yu Lin, MPH** — Bioinformatics & AI Specialist · Faculty Lecturer, NDMU · Major, R.O.C. Army
 
 [Download full CV (PDF)]({{ base_path }}/files/cv.pdf){: .btn .btn--primary}
 
@@ -41,7 +41,7 @@ Skills
 
 Certifications
 ======
-* NVIDIA LLM Certificate
+* NVIDIA LLM & Agentic AI Certificate
 * TQC+ Object-Oriented Programming Language Certification
 * Medical Information Manager Certification, 2022–2025
 * Emergency Medical Technician (Intermediate), 2014–2027
@@ -66,13 +66,20 @@ Scholarly Works
 * Li-Chen Yen, Sui-Lung Su, Meng-Chang Lee, Cheng-Jing Jiang, Pi-Shao Ko, Su-Wen Chuang, Yu-Hsuan Chen, Wen Su, **Sin-Yu Lin**, Tai-Lung Cha. "Differential Effect on Labor Force Health Initiated by the First Wave of the COVID-19 in Taiwan." *Medicine* 103(45):pe39904, November 8, 2024.
 
 **Poster Presentations**
-* Associations Between Cabin Air Pollutants and HRV in a Confined Submarine Environment. AsMA & UHMS Annual Meeting, 2026.
-* Epidemiological Study on the Health Status of Officers and Soldiers and Related Risk Factors Using the National Army Health Information Management System. NDMC Military Medical Conference, 2022. (MND-MAB-110-041)
+* Associations Between Cabin Air Pollutants and HRV in a Confined Submarine Environment. AsMA & UHMS Annual Meeting, May 20, 2026.
+* Epidemiological Study on the Health Status of Officers and Soldiers and Related Risk Factors Using the National Army Health Information Management System. NDMC Military Medical Conference, November 19, 2022. (MND-MAB-110-041)
+
+**Invited Talks & Workshops**
+* AI Applications and Garmin PPG Signal Processing: A Hands-On Workshop. National Defense Medical University (NDMU), June 9, 2026.
+* Smart Healthcare from Clinical and Community Settings to Extreme-Environment Military Medicine: A Brief Overview. National Defense Medical University (NDMU), May 15, 2026.
 
 **Grant Projects**
-* Development of an AI-Based Predictive Model for Pressure and Oxygen Tolerance and Workload Endurance in Naval Divers. 2027 (pending).
+* Development of an AI-Based Predictive Model for Pressure and Oxygen Tolerance and Workload Endurance in Naval Divers. PI, 2027, TWD 350,000 (approx. USD 11,000). *Approved.*
 * Using Artificial Intelligence to Establish ECG Indicators for Predicting the Pulmonary Function Performance of Personnel in the Navy Underwater Operations Unit. PI, 2026, MND-MAB-C03-115013, TWD 400,000 (approx. USD 12,600).
+* Assessing Metabolic Risk Among Military Personnel Using Routine Health Examination Data and Its Association with Occupational Exposure. Co-Investigator, Kaohsiung Armed Forces General Hospital, National Defense research project, 2028 (pending).
+* Evaluating the Sustainability of Wartime Blood Supply Using Cold-Stored Whole Blood Combined with a "Mobile Blood Bank": A Simulation Study Based on Recent Armed Conflicts and Regional Demographic Data. Co-Investigator, Tri-Service General Hospital, 2028 (pending).
+* Investigating Cross-Tissue Gene Expression Signatures in Rheumatoid Arthritis and Core Regulatory Factors in Monocyte-to-Macrophage Differentiation. Co-Investigator, Tri-Service General Hospital, Keelung Branch, 2027 (pending).
 
 Service & Leadership
 ======
-* NDMC Alumni Association — Editorial Committee Member, Jul 2022 – Present (video production for a historic campus building renovation; editor for the *Yuan-Yuan* alumni quarterly)
+* NDMC Alumni Association — Editorial Committee Member, Jul 2022 – Apr 2026, *Yuan-Yuan* Quarterly Issues No. 81–96 (video production for a historic campus building renovation; editor for the *Yuan-Yuan* alumni quarterly)
