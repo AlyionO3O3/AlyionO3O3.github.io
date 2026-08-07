@@ -11,8 +11,6 @@ redirect_from:
 
 **Sin-Yu Lin, MPH** — Bioinformatics & AI Specialist · Faculty Lecturer, NDMU · Major, R.O.C. Army
 
-[Download full CV (PDF)]({{ base_path }}/files/cv.pdf){: .btn .btn--primary}
-
 Education
 ======
 * Master of Public Health (Epidemiology), GPA 4.0/4.0 — National Defense Medical Center (NDMC), 2021–2023
@@ -54,31 +52,6 @@ Awards
 * Dr. D.M. Peng Master's Thesis Award
 * Dr. J. Heng Liu Memorial Award (Academic Excellence)
 * Graduate Student Excellence Award — ranked 1st in class
-
-Scholarly Works
-======
-
-**Patents**
-* Judgement System to Remove Respirator. Taiwan Pat. M644882, 2023. *(Winner of the 21st National Innovation Award)*
-* Bronchiectasis Risk Prediction System. Taiwan Pat. M683282, 2026.
-
-**Journal Articles**
-* Li-Chen Yen, Sui-Lung Su, Meng-Chang Lee, Cheng-Jing Jiang, Pi-Shao Ko, Su-Wen Chuang, Yu-Hsuan Chen, Wen Su, **Sin-Yu Lin**, Tai-Lung Cha. "Differential Effect on Labor Force Health Initiated by the First Wave of the COVID-19 in Taiwan." *Medicine* 103(45):pe39904, November 8, 2024.
-
-**Poster Presentations**
-* Associations Between Cabin Air Pollutants and HRV in a Confined Submarine Environment. AsMA & UHMS Annual Meeting, May 20, 2026.
-* Epidemiological Study on the Health Status of Officers and Soldiers and Related Risk Factors Using the National Army Health Information Management System. NDMC Military Medical Conference, November 19, 2022. (MND-MAB-110-041)
-
-**Invited Talks & Workshops**
-* AI Applications and Garmin PPG Signal Processing: A Hands-On Workshop. National Defense Medical University (NDMU), June 9, 2026.
-* Smart Healthcare from Clinical and Community Settings to Extreme-Environment Military Medicine: A Brief Overview. Invited Talk, Department of Biomedical Sciences and Engineering, National Central University, May 15, 2026.
-
-**Grant Projects**
-* Development of an AI-Based Predictive Model for Pressure and Oxygen Tolerance and Workload Endurance in Naval Divers. PI, 2027, TWD 350,000 (approx. USD 11,000). *Approved.*
-* Using Artificial Intelligence to Establish ECG Indicators for Predicting the Pulmonary Function Performance of Personnel in the Navy Underwater Operations Unit. PI, 2026, MND-MAB-C03-115013, TWD 400,000 (approx. USD 12,600).
-* Assessing Metabolic Risk Among Military Personnel Using Routine Health Examination Data and Its Association with Occupational Exposure. Co-Investigator, Zuoying Armed Forces General Hospital, National Defense research project, 2028 (pending).
-* Evaluating the Sustainability of Wartime Blood Supply Using Cold-Stored Whole Blood Combined with a "Mobile Blood Bank": A Simulation Study Based on Recent Armed Conflicts and Regional Demographic Data. Co-Investigator, Tri-Service General Hospital, 2028 (pending).
-* Investigating Cross-Tissue Gene Expression Signatures in Rheumatoid Arthritis and Core Regulatory Factors in Monocyte-to-Macrophage Differentiation. Co-Investigator, Tri-Service General Hospital, Keelung Branch, 2027 (pending).
 
 Service & Leadership
 ======
