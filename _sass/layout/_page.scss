@@ -14,6 +14,13 @@
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
+
+  // Keep #main at least as tall as the fixed sidebar so short pages
+  // (e.g. a Talks page with only a couple of entries) don't let the
+  // footer ride up and overlap the sidebar.
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    min-height: calc(100vh - #{$masthead-height});
+  }
 }
 
 .page {

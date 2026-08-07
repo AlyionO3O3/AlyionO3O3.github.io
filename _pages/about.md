@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Sin-Yu Lin"
+hide_title: true
 excerpt: "Bioinformatics & AI Specialist · Faculty Lecturer, NDMU · Major, R.O.C. Army"
 author_profile: true
 redirect_from:

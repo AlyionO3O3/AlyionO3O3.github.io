@@ -82,4 +82,5 @@ Scholarly Works
 
 Service & Leadership
 ======
+* Faculty Mentor, School of Medicine, National Defense Medical University — advising medical students
 * NDMC Alumni Association — Editorial Committee Member, Jul 2022 – Apr 2026, *Yuan-Yuan* Quarterly Issues No. 81–96 (video production for a historic campus building renovation; editor for the *Yuan-Yuan* alumni quarterly)
