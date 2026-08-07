@@ -71,12 +71,12 @@ Scholarly Works
 
 **Invited Talks & Workshops**
 * AI Applications and Garmin PPG Signal Processing: A Hands-On Workshop. National Defense Medical University (NDMU), June 9, 2026.
-* Smart Healthcare from Clinical and Community Settings to Extreme-Environment Military Medicine: A Brief Overview. National Defense Medical University (NDMU), May 15, 2026.
+* Smart Healthcare from Clinical and Community Settings to Extreme-Environment Military Medicine: A Brief Overview. Invited Talk, Department of Biomedical Sciences and Engineering, National Central University, May 15, 2026.
 
 **Grant Projects**
 * Development of an AI-Based Predictive Model for Pressure and Oxygen Tolerance and Workload Endurance in Naval Divers. PI, 2027, TWD 350,000 (approx. USD 11,000). *Approved.*
 * Using Artificial Intelligence to Establish ECG Indicators for Predicting the Pulmonary Function Performance of Personnel in the Navy Underwater Operations Unit. PI, 2026, MND-MAB-C03-115013, TWD 400,000 (approx. USD 12,600).
-* Assessing Metabolic Risk Among Military Personnel Using Routine Health Examination Data and Its Association with Occupational Exposure. Co-Investigator, Kaohsiung Armed Forces General Hospital, National Defense research project, 2028 (pending).
+* Assessing Metabolic Risk Among Military Personnel Using Routine Health Examination Data and Its Association with Occupational Exposure. Co-Investigator, Zuoying Armed Forces General Hospital, National Defense research project, 2028 (pending).
 * Evaluating the Sustainability of Wartime Blood Supply Using Cold-Stored Whole Blood Combined with a "Mobile Blood Bank": A Simulation Study Based on Recent Armed Conflicts and Regional Demographic Data. Co-Investigator, Tri-Service General Hospital, 2028 (pending).
 * Investigating Cross-Tissue Gene Expression Signatures in Rheumatoid Arthritis and Core Regulatory Factors in Monocyte-to-Macrophage Differentiation. Co-Investigator, Tri-Service General Hospital, Keelung Branch, 2027 (pending).
 

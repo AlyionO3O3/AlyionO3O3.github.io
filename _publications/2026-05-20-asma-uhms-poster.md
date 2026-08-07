@@ -1,10 +1,12 @@
 ---
 title: "Associations Between Cabin Air Pollutants and HRV in a Confined Submarine Environment"
-collection: talks
-type: "Poster Presentation"
-permalink: /talks/2026-05-20-asma-uhms-poster
-venue: "AsMA & UHMS Annual Meeting"
+collection: publications
+category: conferences
+permalink: /publication/2026-05-20-asma-uhms-poster
+excerpt: 'Poster presentation, AsMA & UHMS Annual Meeting.'
 date: 2026-05-20
-location: "United States"
+venue: "AsMA & UHMS Annual Meeting"
 ---
+Poster Presentation, United States, May 20, 2026.
+
 Poster presentation on the associations between cabin air pollutants and heart rate variability (HRV) in a confined submarine environment.

@@ -3,9 +3,9 @@ title: "Assessing Metabolic Risk Among Military Personnel Using Routine Health E
 collection: publications
 category: grants
 permalink: /publication/2028-01-01-metabolic-risk-military-grant
-excerpt: 'Co-Investigator, National Defense research project (pending), Kaohsiung Armed Forces General Hospital.'
+excerpt: 'Co-Investigator, National Defense research project (pending), Zuoying Armed Forces General Hospital.'
 date: 2028-01-01
-venue: 'Kaohsiung Armed Forces General Hospital'
+venue: 'Zuoying Armed Forces General Hospital'
 ---
 Co-Investigator, 2028 (pending). National Defense research project.
 

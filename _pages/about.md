@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sin-Yu Lin, MPH"
+title: "Sin-Yu Lin"
 excerpt: "Bioinformatics & AI Specialist · Faculty Lecturer, NDMU · Major, R.O.C. Army"
 author_profile: true
 redirect_from:
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-About Me
+Bio
 ======
 
-I am a Faculty Lecturer at National Defense Medical University (NDMU), with an academic background in epidemiology, genomics, and health data science. My research interest lies at the intersection of Artificial Intelligence and Bioinformatics, with a long-term focus on applying advanced computational methodologies to extreme environmental physiology and translational medicine.
+I am a Faculty Lecturer at the Graduate Institute of Aerospace and Undersea Medicine (GIAUM), National Defense Medical University (NDMU), with an academic background in epidemiology, genomics, and health data science. My research interest lies at the intersection of Artificial Intelligence and Bioinformatics, with a long-term focus on applying advanced computational methodologies to extreme environmental physiology and translational medicine.
 
 My foundational research during my Master's training focused on statistical genomics and population health, integrating GWAS, transcription factor (TF) motif analysis, RNA-seq, and large-scale health databases (Taiwan Biobank, NHIRD). Currently, I lead research initiatives on physiological monitoring and operational risk prediction for divers. My computational toolkit spans predictive machine learning, deep learning, and single-cell RNA sequencing (scRNA-seq), complemented by functional bioinformatics frameworks including structural modeling (AlphaFold) and Agentic AI applications.
 
@@ -27,10 +27,3 @@ Taiwan is an island nation with globally renowned marine ecosystems and a growin
 - **AI & Machine Learning for Complex Biological Data:** Developing scalable ML/DL models and agentic workflows for multimodal single-cell and genomic datasets.
 - **Extreme Environment Genomics & Physiology:** Unraveling multi-omic mechanisms of hypoxia, hyperbaric stress, and adaptation in divers and aviators.
 - **End-to-End Translational Pipelines:** Designing rigorous "sample-to-data" computational and experimental workflows for biomarker discovery.
-
-Highlights & Impact
-======
-
-- **Research Leadership:** Pioneering the institutional roadmap for a specialized Taiwan Diver & Aviator Biobank.
-- **Translational Innovation:** 3x National Innovation Award winner (2023–2025) and holder of 2 patents in AI-assisted clinical decision support systems.
-- **Scholarly Output:** Author of peer-reviewed journal articles and presenter at international conferences in environmental and occupational health.

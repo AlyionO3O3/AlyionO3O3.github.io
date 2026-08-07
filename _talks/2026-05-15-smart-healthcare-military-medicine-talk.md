@@ -1,10 +1,10 @@
 ---
 title: "Smart Healthcare from Clinical and Community Settings to Extreme-Environment Military Medicine: A Brief Overview"
 collection: talks
-type: "Talk"
+type: "Invited Talk"
 permalink: /talks/2026-05-15-smart-healthcare-military-medicine-talk
-venue: "National Defense Medical University (NDMU)"
+venue: "Department of Biomedical Sciences and Engineering, National Central University"
 date: 2026-05-15
-location: "Taipei, Taiwan"
+location: "Taoyuan, Taiwan"
 ---
-Talk introducing smart healthcare applications spanning clinical and community settings through to extreme-environment military medicine.
+Invited talk introducing smart healthcare applications spanning clinical and community settings through to extreme-environment military medicine.
