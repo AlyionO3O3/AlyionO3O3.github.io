@@ -7,6 +7,8 @@ excerpt: 'A study of how the first wave of COVID-19 in Taiwan differentially aff
 date: 2024-11-08
 venue: 'Medicine'
 ---
-Published in *Medicine*, 103(45):pe39904, November 8, 2024.
+Published in *Medicine*, 103(45):pe39904, November 8, 2024. DOI: [10.1097/MD.0000000000039904](https://doi.org/10.1097/MD.0000000000039904)
+
+Li-Chen Yen, Sui-Lung Su, Meng-Chang Lee, Cheng-Jing Jiang, Pi-Shao Ko, Su-Wen Chuang, Yu-Hsuan Chen, Wen Su, **Sin-Yu Lin**, Tai-Lung Cha.
 
 Investigated how the first wave of the COVID-19 pandemic differentially affected labor force health outcomes in Taiwan, drawing on national health administrative data.

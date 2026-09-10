@@ -9,6 +9,6 @@ venue: 'International Journal of Medical Sciences'
 ---
 Published in *International Journal of Medical Sciences*, 23(10), 3122–3133, 2026. DOI: [10.7150/ijms.125797](https://doi.org/10.7150/ijms.125797)
 
-Tsai, P.J., Lin, S.Y., Lee, M.C., Chen, M.J., Wang, C.C., Chen, C.J., Chen, W.T., Hsiao, P.J., Chiu, C.C., Chen, Y.H., Lin, H.T., Su, H., Su, S.L.
+Pei-Jan Tsai, **Sin-Yu Lin**, Meng-Chang Lee, Mei-Jung Chen, Chih-Chien Wang, Cheng-Jung Chen, Wei-Teing Chen, Po-Jen Hsiao, Chih-Chien Chiu, Yu-Hsuan Chen, Hsiao-Ting Lin, Hao Su, Sui-Lung Su.
 
 Validated osteoporosis-associated SNP candidates identified through a Decisive Gene Strategy, using Taiwan Biobank data.
