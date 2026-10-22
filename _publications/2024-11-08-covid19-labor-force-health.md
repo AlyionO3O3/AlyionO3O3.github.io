@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-11-08-covid19-labor-force-health
 excerpt: 'A study of how the first wave of COVID-19 in Taiwan differentially affected labor force health outcomes, using national health administrative data.'
+authors: 'Li-Chen Yen, Sui-Lung Su, Meng-Chang Lee, Cheng-Jing Jiang, Pi-Shao Ko, Su-Wen Chuang, Yu-Hsuan Chen, Wen Su, **Sin-Yu Lin**, Tai-Lung Cha'
 date: 2024-11-08
 venue: 'Medicine'
 ---
