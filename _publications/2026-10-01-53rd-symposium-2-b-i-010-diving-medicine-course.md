@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/2026-10-01-53rd-symposium-b-i-010
 excerpt: ''
-authors: '朱其俊1,2\*、鄒秉諺3、黃南捷3、**林芯褕**1、江良浩1、杜旻育3、李世裕1#'
+authors: 'Chi-Chun Chu, Ping-yen Tsou, Nan-Chien Huang, **Sin-Yu Lin**, Liang-Hao Chiang, Min-Yu Tu, Shih-Yu Lee'
 date: 2026-10-01
 venue: 'The 53rd Military Medical Academic Symposium (B-I-010)'
 ---
-朱其俊1,2\*、鄒秉諺3、黃南捷3、**林芯褕**1、江良浩1、杜旻育3、李世裕1#
+Chi-Chun Chu, Ping-yen Tsou, Nan-Chien Huang, **Sin-Yu Lin**, Liang-Hao Chiang, Min-Yu Tu, Shih-Yu Lee
